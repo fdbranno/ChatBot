@@ -1,5 +1,6 @@
-## Modified from code found [here](https://github.com/Blasman/mIRC-Twitch-Scripts)
-## Shout out to [Blasman13](https://twitch.tv/Blasman13) for developing the initial scripts
+# Credit
+### Modified from code found [here](https://github.com/Blasman/mIRC-Twitch-Scripts)
+### Shoutout to [Blasman13](https://twitch.tv/Blasman13) for developing the initial scripts
 
 # Script Documentation  
 
