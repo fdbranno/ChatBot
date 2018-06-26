@@ -1,4 +1,4 @@
-##Modified from code found [here](https://github.com/Blasman/mIRC-Twitch-Scripts)
+## Modified from code found [here](https://github.com/Blasman/mIRC-Twitch-Scripts)
 
 # Script Documentation  
 
