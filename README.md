@@ -1,3 +1,5 @@
+##Modified from code found [here](https://github.com/Blasman/mIRC-Twitch-Scripts)
+
 # Script Documentation  
 
 **[![Click here to visit the WIKI for detailed information and documentation for most of the scripts on this GitHub](http://i.imgur.com/URVntZX.png)](https://github.com/Blasman/mIRC-Twitch-Scripts/wiki/Script-Documentation "Script Documentation")**  
