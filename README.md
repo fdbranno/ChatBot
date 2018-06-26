@@ -1,23 +1,3 @@
-# Updates  
-
-__**August 4, 2017**__: __If you choose to update or have already updated to AnkhBot Version 1.0.2.0, please keep in mind that any scripts from this GitHub that work with AnkhBot's databases will be rendered useless. AnkhHeart has chosen to encrypt the databases in AnkhBot in order to "prevent tampering." There is nothing that can be done about this, and unless you have made backups of your database files, there is no going back once you have updated. You have been warned. Please do not message me asking for help on how to get the scripts to work or asking why they aren't working. This is why.__
-
-__**February 28, 2017**__: Most scripts have been updated on this GitHub to work with the new AnkhBot update and BlasBot.mrc script. Please be sure to [update all required scripts](https://github.com/Blasman/mIRC-Twitch-Scripts/blob/master/README.md#updating-scripts) from this GitHub, as well as any of the optional scripts that you are using if they have been updated, as well as to [grab the newest version of AnkhBot](http://marcinswierzowski.com/Gallery/Projects/AnkhBotR2/) from the AnkhBot website!  
-
-__**December 10, 2016**__: The **ankhbot.mrc** script has been removed from the GitHub and has been replaced with **BlasBot.mrc**. A "version check" has been added to this file. Updates that I perform to other scripts will now check to see if the user is running a high enough version of BlasBot.mrc. The reason for this is that far too many people were ignoring the "PLEASE MAKE SURE YOU HAVE THE LATEST VERSION OF ANKHBOT.MRC" on the [WIKI](https://github.com/Blasman/mIRC-Twitch-Scripts/wiki/Script-Documentation) documentation and asking me why their scripts were not working. This should resolve that issue. Installing BlasBot.mrc should automatically unload your old ankhbot.mrc. You will have to answer the three basic questions again (twitch name, ankhbot database directory, currency name) when installing BlasBot.mrc. Ideally, you should "order" this script in mIRC after the first four that you have installed from the directions below on this GitHub `ALT-R > File > Order`, although this is not required.  
-
-# mIRC-Twitch-Scripts  
-The main focus of the scripts on this GitHub are for use with a Twitch [mIRC](http://www.mirc.com/) bot that works in conjunction with [AnkhBot](http://marcinswierzowski.com/Gallery/Projects/AnkhBotR2/) and AnkhBot's point system. [AnkhBot](http://marcinswierzowski.com/Gallery/Projects/AnkhBotR2/) is highly regarded as a great choice for a free and versatile Twitch bot, yet development on it has stopped, and it's creator, AnkhHeart, refuses to release the source code to other creators. Therefor, these scripts are designed to compliment and enchance a Twitch channel that is currently using AnkhBot, however, many of the scripts can also be easily modified to work without AnkhBot. See the [WIKI](https://github.com/Blasman/mIRC-Twitch-Scripts/wiki/Script-Documentation) for documentation regarding each script.  
-
-Be aware that [mIRC](http://www.mirc.com/) is a shareware program with a 30-day trial period, after which you will be required to purchase a license for the program. The standard cost is $20 US, however, there is a permanent [50% off coupon which drops the price to $10 found here](http://www.mirc.com/register.php?coupon=MIRC-SWV0-MNKL).  
-
-# Credits  
-
-**AnkhHeart**: For [AnkhBot](http://marcinswierzowski.com/Code/AnkhBotR2/), the bot that my scripts are designed to work with.  
-**SReject**: For the [JSON Parser](https://github.com/SReject/JSON-For-Mirc), [mTwitch scripts](https://github.com/SReject/mTwitch) and the "TwitchTime" alias used in BlasBot.mrc.  
-**Ramirez**: For the [mIRC SQLite](http://hawkee.com/profile/12444/) script.  
-**Riamus**: For the [original DateXpander script](http://www.kakkoiitranslations.net/mircscripts/) (used for followdate.mrc).  
-
 # Script Documentation  
 
 **[![Click here to visit the WIKI for detailed information and documentation for most of the scripts on this GitHub](http://i.imgur.com/URVntZX.png)](https://github.com/Blasman/mIRC-Twitch-Scripts/wiki/Script-Documentation "Script Documentation")**  
@@ -82,10 +62,6 @@ There are multiple ways to "update" your scripts on this GitHub. IMO, the ideal 
 **Step 5**: Proceed to `/load -rs scriptname.mrc` for all the scripts that you are upgrading. If you are updating any of the required scripts, be sure to load them in the order that they are listed in the "Install Required Scripts" section of the GitHub above. (you may need to actually be connected to the server if loading BlasBot.mrc so it can get your bot's name)  
 
 **Step 6**: Close mIRC and restart it. If you did everything properly, then you should not have any issues.  
-
-## Contact Info  
-
-By visiting my Twitch channel at http://www.twitch.tv/blasman13 , you may Twitch message me regarding any help that you may require with anything on this GitHub (provided that it is not something that can easily be done yourself by following the instructions on this GitHub). Before messaging me for help, please make sure that you are using the most recent updates of the scripts on this GitHub, as I am constantly updating the scripts here, and many scripts require newly added segments of other scripts. For general mIRC help, consider joining the [mirchelp](http://www.twitch.tv/mirchelp) chat on Twitch.  
 
 ## Troubleshooting / FAQ  
 
