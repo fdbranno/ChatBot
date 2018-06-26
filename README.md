@@ -1,9 +1,3 @@
-<a href="https://twitch.streamlabs.com/blasman13/">
-  <p align="center">
-    <img src="http://i.imgur.com/5HN8EnD.png" alt="DONATE HERE">
-  </p>
-</a>
-
 # Updates  
 
 __**August 4, 2017**__: __If you choose to update or have already updated to AnkhBot Version 1.0.2.0, please keep in mind that any scripts from this GitHub that work with AnkhBot's databases will be rendered useless. AnkhHeart has chosen to encrypt the databases in AnkhBot in order to "prevent tampering." There is nothing that can be done about this, and unless you have made backups of your database files, there is no going back once you have updated. You have been warned. Please do not message me asking for help on how to get the scripts to work or asking why they aren't working. This is why.__
@@ -111,9 +105,4 @@ By visiting my Twitch channel at http://www.twitch.tv/blasman13 , you may Twitch
 **Answer:** Please make sure that you are using the latest mIRC version 7.47 (or higher). Earlier versions contained an old memory leak that has been fixed in the latest version.  
 
 **Issue:** Whispers sent from your bot are not being received by users.  
-**Answer:** If this is happening after your bot has been sending out a lot of whispers successfully and it just happens to temporarily stop working, then it is likely Twitch's anti-spam measures that are preventing the whispers from being sent. See this post on instructions on how to whitelist your bot. [Are your whispers not going through for your bot?](https://discuss.dev.twitch.tv/t/are-your-whispers-not-going-through-for-your-bot/5183)  
-
-## Twitch Channels Currently Running These Scripts  
-
-Some of the Twitch channels currently using some of the scripts on this GitHub:  
-[Blasman13](http://twitch.tv/Blasman13) | [xxxDESPERADOxxx](http://twitch.tv/xxxDESPERADOxxx) | [thaithyme](http://twitch.tv/thaithyme) | [Evraee](http://twitch.tv/Evraee) | [nekonchoco](http://twitch.tv/nekonchoco) | [NakedAngel](http://twitch.tv/NakedAngel) | [SuitedForVictory](http://twitch.tv/SuitedForVictory) | [AeroGarfield29](http://twitch.tv/AeroGarfield29) | [abrekke83](http://twitch.tv/abrekke83) | [KatieKakes32](http://twitch.tv/KatieKakes32) | [SmokinDank5280](http://twitch.tv/SmokinDank5280) | [A_Colder_Vision](http://twitch.tv/A_Colder_Vision) | [Tygastripe](http://twitch.tv/Tygastripe) | [XinarTheNeko](http://twitch.tv/XinarTheNeko) | [RetroBecky](http://twitch.tv/RetroBecky) | [TheYasmein](http://twitch.tv/TheYasmein) | [TripodGG](http://twitch.tv/TripodGG) | [sketty1881](http://twitch.tv/sketty1881) | [HybridMagpie](http://twitch.tv/HybridMagpie) | [Rick92647](http://twitch.tv/Rick92647) | [EpicStreamMan](http://twitch.tv/EpicStreamMan) | [Cillibear](http://twitch.tv/Cillibear)  
+**Answer:** If this is happening after your bot has been sending out a lot of whispers successfully and it just happens to temporarily stop working, then it is likely Twitch's anti-spam measures that are preventing the whispers from being sent. See this post on instructions on how to whitelist your bot. [Are your whispers not going through for your bot?](https://discuss.dev.twitch.tv/t/are-your-whispers-not-going-through-for-your-bot/5183) 
